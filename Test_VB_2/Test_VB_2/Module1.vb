@@ -1,5 +1,4 @@
 ﻿Module Module1
-
     Sub Main()
         'Do While
 
@@ -54,6 +53,7 @@
         'Console.ReadLine()
 
         'Exit While
+
         'Dim j As Integer = 1
         'While j < 4
         '    Console.WriteLine("j value: {0}", j)
@@ -65,6 +65,7 @@
 
 
         'Exit Do While
+
         'Dim k As Integer = 1
         'Do
         '    Console.WriteLine("k value: {0}", k)
@@ -77,32 +78,63 @@
 
         'Continue For
 
-        For i As Integer = 1 To 4
-            If i = 3 Then Continue For
-            Console.WriteLine("i value: {0}", i)
-        Next
-        Console.WriteLine("Press Enter Key to Exit...")
-        Console.ReadLine()
+        'For i As Integer = 1 To 4
+        '    If i = 3 Then Continue For
+        '    Console.WriteLine("i value: {0}", i)
+        'Next
+        'Console.WriteLine("Press Enter Key to Exit...")
+        'Console.ReadLine()
 
         'Continue While
-        Dim j As Integer = 1
-        While j < 4
-            j += 1
-            If j = 2 Then Continue While
-            Console.WriteLine("j value: {0}", j)
-        End While
-        Console.WriteLine("Press Enter Key to Exit...")
-        Console.ReadLine()
+
+        'Dim j As Integer = 1
+        'While j < 4
+        '    j += 1
+        '    If j = 2 Then Continue While
+        '    Console.WriteLine("j value: {0}", j)
+        'End While
+        'Console.WriteLine("Press Enter Key to Exit...")
+        'Console.ReadLine()
 
 
         'Continue Do While
-        Dim k As Integer = 1
-        Do
-            Console.WriteLine("k value: {0}", k)
-            k += 1
-            If k = 2 Then Continue Do
-        Loop While k < 4
-        Console.WriteLine("Press Enter Key to Exit...")
+
+        'Dim k As Integer = 1
+        'Do
+        '    Console.WriteLine("k value: {0}", k)
+        '    k += 1
+        '    If k = 2 Then Continue Do
+        'Loop While k < 4
+        'Console.WriteLine("Press Enter Key to Exit...")
+        'Console.ReadLine()
+
+        'Goto For Loop
+
+        '        For i As Integer = 1 To 10 - 1
+        '            If i = 5 Then
+        '                GoTo endloop
+        '            End If
+        '            Console.WriteLine("i value: {0}", i)
+        '        Next
+        'endloop:
+        '        Console.WriteLine("The end")
+        '        Console.WriteLine("Press Enter Key to Exit...")
+        '        Console.ReadLine()
+
+
+        'Dim number As Integer = Module2.Sum(4, 6)
+        'Console.WriteLine(number)
+        'Console.ReadLine()
+        'Console.ReadKey()
+
+        Dim i As Integer = 10, j As Integer = 20, result As Integer = 0
+        result = SumOfNumbers(i, j)
+        Console.WriteLine("Result: {0}", result)
         Console.ReadLine()
     End Sub
+    Public Function SumOfNumbers(ByVal a As Integer, ByVal b As Integer) As Integer
+        Dim x As Integer = a + b
+        Return x
+    End Function
+
 End Module

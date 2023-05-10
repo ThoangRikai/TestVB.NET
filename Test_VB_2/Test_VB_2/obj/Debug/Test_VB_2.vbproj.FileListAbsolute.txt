@@ -10,3 +10,15 @@ D:\Rikai_Intern_.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.vbproj.CoreCompileI
 D:\Rikai_Intern_.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.exe
 D:\Rikai_Intern_.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.xml
 D:\Rikai_Intern_.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.pdb
+D:\TestVB.NET\Test_VB_2\Test_VB_2\bin\Debug\Test_VB_2.exe.config
+D:\TestVB.NET\Test_VB_2\Test_VB_2\bin\Debug\Test_VB_2.exe
+D:\TestVB.NET\Test_VB_2\Test_VB_2\bin\Debug\Test_VB_2.pdb
+D:\TestVB.NET\Test_VB_2\Test_VB_2\bin\Debug\Test_VB_2.xml
+D:\TestVB.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.vbproj.AssemblyReference.cache
+D:\TestVB.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.vbproj.SuggestedBindingRedirects.cache
+D:\TestVB.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.Resources.resources
+D:\TestVB.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.vbproj.GenerateResource.cache
+D:\TestVB.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.vbproj.CoreCompileInputs.cache
+D:\TestVB.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.exe
+D:\TestVB.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.xml
+D:\TestVB.NET\Test_VB_2\Test_VB_2\obj\Debug\Test_VB_2.pdb
