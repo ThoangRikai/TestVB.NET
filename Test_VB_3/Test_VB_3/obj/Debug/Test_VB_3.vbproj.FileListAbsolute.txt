@@ -1,0 +1,12 @@
+D:\TestVB.NET\Test_VB_3\Test_VB_3\bin\Debug\Test_VB_3.exe.config
+D:\TestVB.NET\Test_VB_3\Test_VB_3\bin\Debug\Test_VB_3.exe
+D:\TestVB.NET\Test_VB_3\Test_VB_3\bin\Debug\Test_VB_3.pdb
+D:\TestVB.NET\Test_VB_3\Test_VB_3\bin\Debug\Test_VB_3.xml
+D:\TestVB.NET\Test_VB_3\Test_VB_3\obj\Debug\Test_VB_3.vbproj.AssemblyReference.cache
+D:\TestVB.NET\Test_VB_3\Test_VB_3\obj\Debug\Test_VB_3.vbproj.SuggestedBindingRedirects.cache
+D:\TestVB.NET\Test_VB_3\Test_VB_3\obj\Debug\Test_VB_3.Resources.resources
+D:\TestVB.NET\Test_VB_3\Test_VB_3\obj\Debug\Test_VB_3.vbproj.GenerateResource.cache
+D:\TestVB.NET\Test_VB_3\Test_VB_3\obj\Debug\Test_VB_3.vbproj.CoreCompileInputs.cache
+D:\TestVB.NET\Test_VB_3\Test_VB_3\obj\Debug\Test_VB_3.exe
+D:\TestVB.NET\Test_VB_3\Test_VB_3\obj\Debug\Test_VB_3.xml
+D:\TestVB.NET\Test_VB_3\Test_VB_3\obj\Debug\Test_VB_3.pdb
